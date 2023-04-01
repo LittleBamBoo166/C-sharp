@@ -1,0 +1,15 @@
+D:\hoc-ky-223\C-sharp\oop\phanso\bin\Debug\net7.0\phanso.exe
+D:\hoc-ky-223\C-sharp\oop\phanso\bin\Debug\net7.0\phanso.deps.json
+D:\hoc-ky-223\C-sharp\oop\phanso\bin\Debug\net7.0\phanso.runtimeconfig.json
+D:\hoc-ky-223\C-sharp\oop\phanso\bin\Debug\net7.0\phanso.dll
+D:\hoc-ky-223\C-sharp\oop\phanso\bin\Debug\net7.0\phanso.pdb
+D:\hoc-ky-223\C-sharp\oop\phanso\obj\Debug\net7.0\phanso.csproj.AssemblyReference.cache
+D:\hoc-ky-223\C-sharp\oop\phanso\obj\Debug\net7.0\phanso.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc-ky-223\C-sharp\oop\phanso\obj\Debug\net7.0\phanso.AssemblyInfoInputs.cache
+D:\hoc-ky-223\C-sharp\oop\phanso\obj\Debug\net7.0\phanso.AssemblyInfo.cs
+D:\hoc-ky-223\C-sharp\oop\phanso\obj\Debug\net7.0\phanso.csproj.CoreCompileInputs.cache
+D:\hoc-ky-223\C-sharp\oop\phanso\obj\Debug\net7.0\phanso.dll
+D:\hoc-ky-223\C-sharp\oop\phanso\obj\Debug\net7.0\refint\phanso.dll
+D:\hoc-ky-223\C-sharp\oop\phanso\obj\Debug\net7.0\phanso.pdb
+D:\hoc-ky-223\C-sharp\oop\phanso\obj\Debug\net7.0\phanso.genruntimeconfig.cache
+D:\hoc-ky-223\C-sharp\oop\phanso\obj\Debug\net7.0\ref\phanso.dll
